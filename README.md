@@ -69,8 +69,8 @@
 </a>
 
 </p>
----
-# 💻 Tech Stack
+
+ 💻 Tech S
 
 ## 🚀 Programming Languages
 
