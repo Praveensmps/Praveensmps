@@ -281,9 +281,7 @@
 
 ✔ Automation Test Engineer
 
-✔ Java Developer
-
-✔ Full Stack Developer
+✔ Full Stack Develope
 ```
 
 ---
@@ -296,8 +294,6 @@
 - Web Application Testing
 - API Testing
 - Test Framework Development
-- Java Development
-- Full Stack Development
 
 ---
 
@@ -309,7 +305,6 @@ I'm always interested in collaborating on:
 - Selenium Projects
 - Java Applications
 - Open Source Projects
-- Full Stack Applications
 - Software Testing Projects
 
 Feel free to connect with me through LinkedIn or GitHub.
