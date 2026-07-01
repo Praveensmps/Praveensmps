@@ -70,7 +70,7 @@
 
 </p>
 
- 💻 Tech S
+ 💻 Tech Stack
 
 ## 🚀 Programming Languages
 
