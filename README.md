@@ -24,7 +24,6 @@
 
 - QA Automation
 - Software Testing
-- Full Stack Development
 
 🌱 Currently improving my skills in
 
@@ -33,8 +32,7 @@
 - TestNG
 - Maven
 - SQL
-- React
-- Node.js
+
 
 🎯 Career Goal
 
@@ -65,18 +63,12 @@
 </p>
 
 ---
-
-# 💡 Quote
-
-> **"Quality is never an accident. It is always the result of intelligent effort."**
-
----
 # 💻 Tech Stack
 
 ## 🚀 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
 ---
@@ -106,7 +98,9 @@
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -179,11 +173,13 @@
 
 # 📜 Certifications
 
-🏅 Automation Testing with Selenium Java – HCL GUVI
+🏅 Automation Testing with Selenium Java – HCL GUVI - 2026
 
-🏅 Getting Started with GenAI
+🏅 CCNA: Switching, Routing, and Wireless Essentials - Cisco - 2025
 
-🏅 GenAI – How ChatGPT Really Works
+🏅 Introduction to Cybersecurity - Cisco - 2024
+
+🏅 GenAI – How ChatGPT Really Works - 2024
 
 ---
 
@@ -193,7 +189,6 @@
 
 📄 Published a Research Paper at the IEEE International Conference
 
-🎓 B.E Electronics and Communication Engineering (2022–2026)
 
 ---
 
@@ -205,14 +200,14 @@
 - Advanced Java
 - CI/CD Basics
 - GitHub Actions
+
+
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveensmps&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveensmps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -230,9 +225,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praveensmps&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveensmps&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
