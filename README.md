@@ -243,6 +243,15 @@
 
 </p>
 
+
+# 📅 Productive Time
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveensmps&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
 ---
 
 # 🌟 Profile Summary
