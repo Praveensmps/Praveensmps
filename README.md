@@ -235,7 +235,7 @@
 # 📊 Most Used Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+[  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight)
 </p>
 ---
 
@@ -247,18 +247,6 @@
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Praveensmps&theme=tokyonight&hide_border=true"/>
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveensmps&theme=tokyo-night&hide_border=true"/>
-</p>
 
 # 💼 Open to Opportunities
 
