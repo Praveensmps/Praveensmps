@@ -224,37 +224,41 @@
 
 ---
 
-# ⚡ Coding Activity
+# ⚡ GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Praveensmps&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveensmps&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
 
-# 📅 Productive Time
+# 📊 Most Used Languages
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true"/>
+# 🌟 GitHub Overview
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveensmps&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌟 Profile Summary
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveensmps&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Praveensmps&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveensmps&theme=tokyo-night&hide_border=true"/>
+</p>
 
 # 💼 Open to Opportunities
 
