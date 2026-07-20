@@ -232,13 +232,6 @@
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-[  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensmps&layout=compact&theme=tokyonight)
-</p>
----
-
 # 🌟 GitHub Overview
 
 <p align="center">
