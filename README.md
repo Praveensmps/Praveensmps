@@ -195,7 +195,14 @@
 
 
 ---
+# 📚 Currently Learning
 
+- Selenium Automation Framework Design
+- API Testing with Postman
+- SQL for Test Automation
+- Advanced Java
+- CI/CD Basics
+- GitHub Actions
 ---
 
 # 🔥 GitHub Streak
