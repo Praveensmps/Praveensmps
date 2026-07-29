@@ -97,6 +97,12 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mysql,prisma" />
 </p>
 
+## 🌐 Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mysql,prisma" />
+</p>
+
 ---
 
 ## 🛠 Tools
