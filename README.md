@@ -205,6 +205,13 @@
 - GitHub Actions
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveensmps&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 
 # 📈 Contribution Graph
 
