@@ -193,6 +193,18 @@
 
 📄 Published a Research Paper at the IEEE International Conference
 
+
+---
+# 📚 Currently Learning
+
+- Selenium Automation Framework Design
+- API Testing with Postman
+- SQL for Test Automation
+- Advanced Java
+- CI/CD Basics
+- GitHub Actions
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
