@@ -222,7 +222,17 @@
 </p>
 
 ---
+# 💼 Open to Opportunities
 
+```text
+✔ QA Automation Engineer
+
+✔ Software Test Engineer
+
+✔ Automation Test Engineer
+
+✔ Full Stack Develope
+```
 ---
 
 # 🎯 Areas of Interest
