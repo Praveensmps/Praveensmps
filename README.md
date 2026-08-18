@@ -25,7 +25,13 @@
 - QA Automation
 - Software Testing
 
+🌱 Currently improving my skills in
 
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- SQL
 
 
 🎯 Career Goal
