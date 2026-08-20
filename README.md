@@ -33,6 +33,11 @@
 - Maven
 - SQL
 
+
+🎯 Career Goal
+
+> To become a skilled QA Automation Engineer and contribute to building reliable, high-quality software through automation, testing, and continuous learning.
+
 -
 
 # 🌐 Connect With Me
