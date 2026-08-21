@@ -233,6 +233,15 @@
 ✔ Full Stack Develope
 ```
 ---
+# 🎯 Areas of Interest
+
+- Software Testing
+- QA Automation
+- Selenium Automation
+- Web Application Testing
+- API Testing
+- Test Framework Development
+
 
 ---
 
