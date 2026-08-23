@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.E. Electronics and Communication Engineering Student
+🎓 B.E | Electronics and Communication Engineering | 2026 Graduate
 
 🏫 **M. Kumarasamy College of Engineering**
 
