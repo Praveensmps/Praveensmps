@@ -18,7 +18,7 @@
 
 🏫 **M. Kumarasamy College of Engineering**
 
-📍 Namakkal, Tamil Nadu, India
+📍 Bengalore, Karnataka, India
 
 💼 Interested in
 
