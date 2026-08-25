@@ -243,17 +243,7 @@
 
 ---
 
-# 🤝 Let's Collaborate
 
-I'm always interested in collaborating on:
-
-- QA Automation Frameworks
-- Selenium Projects
-- Java Applications
-- Open Source Projects
-- Software Testing Projects
-
-Feel free to connect with me through LinkedIn or GitHub.
 
 ---
 
