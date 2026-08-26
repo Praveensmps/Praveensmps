@@ -203,10 +203,11 @@
 - GitHub Actions
 ---
 ---
+
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Praveensmps" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Praveensmps&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -214,7 +215,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveensmps" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveensmps&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
