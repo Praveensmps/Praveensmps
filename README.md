@@ -202,7 +202,23 @@
 - CI/CD Basics
 - GitHub Actions
 ---
+---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Praveensmps&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveensmps&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ---
 # 💼 Open to Opportunities
