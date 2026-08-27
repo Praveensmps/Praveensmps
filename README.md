@@ -212,12 +212,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveensmps&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
----
 
 ---
 # 💼 Open to Opportunities
